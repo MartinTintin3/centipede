@@ -1,0 +1,23 @@
+{
+  "name": "centipede",
+  "version": "1.0.0",
+  "main": "src/index.html",
+  "scripts": {
+    "build": "parcel build src/index.html",
+    "dev": "parcel src/index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinTintin3/centipede.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MartinTintin3/centipede/issues"
+  },
+  "homepage": "https://github.com/MartinTintin3/centipede#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
